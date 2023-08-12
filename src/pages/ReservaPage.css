@@ -1,0 +1,19 @@
+
+.reservaContainer {
+    background-color: #ececec;
+    padding: 5%;
+}
+
+
+.container{
+    width: 900px;
+    height: 600px;
+}
+
+
+@media (max-width: 767px){
+    .reservaContainer{
+        display: flex;
+        flex-direction: column;
+    }
+}

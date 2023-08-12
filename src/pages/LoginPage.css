@@ -1,0 +1,26 @@
+.form.form-control{
+display: flex;
+flex-direction: column;
+justify-content:center;
+gap: 10px;
+align-items: center;
+max-width: 600px;
+
+min-height: 500px;
+background-color: #ececec;
+}
+
+.div-form {
+    background-color: #ececec;
+    padding: 3%;
+}
+
+.form{
+    border: 2px solid #020202;
+}
+
+.btn{
+    background-color:rgb(11, 11, 11);
+    color: antiquewhite;
+}
+
